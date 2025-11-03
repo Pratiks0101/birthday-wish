@@ -34,7 +34,7 @@ h1, h2, h3, h4, p {
     background-size: cover;
 }
 
-#gift-img-cake:hover:active {
+#gift-img-cake:hover {
     background-image: url("https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWhmOTU2dDJ1aGc3dndvbGozZnF0emg3dTZ1YmNpY2Q2ZDk1b2ExZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OtoRIdO6rZfAktStoc/giphy.gif");
 }
 
@@ -43,15 +43,15 @@ h1, h2, h3, h4, p {
     height: 200px;
 }
 
-#gift-img-old:hover:active {
+#gift-img-old:hover {
     background-image: url("imag2.JPG");
 }
 
-#gift-img-loo:hover:active {
+#gift-img-loo:hover {
     background-image: url("image3.JPG");
 }
 
-#gift-img-intern:hover:active {
+#gift-img-intern:hover {
     background-image: url("image4.JPG");
 }
 
@@ -60,6 +60,6 @@ h1, h2, h3, h4, p {
     height: 300px;
 }
 
-#gift-img-final:hover:active {
+#gift-img-final:hover {
     background-image: url("image5.JPG");
 }
